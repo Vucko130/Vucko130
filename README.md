@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vucko130
-- 👷 I'm a Civil Engineer. https://github.com/Vucko130/Vucko130/raw/main/assets/engineer-80.png
+- 👷 I'm a Civil Engineer. <img src="https://github.com/Vucko130/Vucko130/raw/main/assets/engineer-80.png" /> 
 - 💻 My hobby is Web Designing.
 - 👀 I’m interested in Building Design and Web designing.
 - 🌱 I’m currently completing my BSc.
