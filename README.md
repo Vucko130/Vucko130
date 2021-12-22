@@ -22,10 +22,7 @@
 <a href="https://jalish.com">
   <img align="left" alt="Jalish Mahmud Sujon | Website" width="30px" src="https://github.com/Vucko130/Vucko130/raw/main/assets/website-48.png" />
 
-  
-  
-  
-  Thank you for Visiting my Profile. 
+
   
   ![](https://visitor-badge.glitch.me/badge?page_id=Vucko130.Vucko130)
 
