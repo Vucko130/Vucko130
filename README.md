@@ -25,6 +25,8 @@
 
   
   ![](https://visitor-badge.glitch.me/badge?page_id=Vucko130.Vucko130)
+  
+  Thank you for vising my profile.
 
   
 
