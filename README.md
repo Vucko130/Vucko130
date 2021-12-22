@@ -1,4 +1,4 @@
-<img src="https://img.icons8.com/external-victoruler-linear-colour-victoruler/64/000000/external-boy-people-victoruler-linear-colour-victoruler-3.png"/>
+<img src="https://img.icons8.com/external-victoruler-linear-colour-victoruler/128/000000/external-boy-people-victoruler-linear-colour-victoruler-3.png"/>
 
 - 👋 Hi, I’m @Vucko130
 - 👷 I'm a Civil Engineer. 
