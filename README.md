@@ -24,7 +24,7 @@
 
 
 
-<h1> Thank you for vising my profile. </h1>
+<h3 style="text-align:center;"> Thank you for vising my profile. </h3>
   
 ![](https://visitor-badge.glitch.me/badge?page_id=Vucko130.Vucko130)
 
