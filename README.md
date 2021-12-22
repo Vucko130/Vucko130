@@ -1,4 +1,3 @@
-<a href="https://puzzles.cf/me">
 <img align="right" alt="Jalish Mahmud Sujon" src="https://img.icons8.com/external-victoruler-linear-colour-victoruler/228/000000/external-boy-people-victoruler-linear-colour-victoruler-3.png"/>
 
 - 👋 Hi, I’m @Vucko130
