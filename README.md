@@ -3,9 +3,7 @@
 - 💻 My hobby is Web Designing.
 - 👀 I’m interested in Building Design and Web designing.
 - 🌱 I’m currently completing my BSc.
-- 📫 Fastest Way to reach me
-
-<a href="https://twitter.com/jalishmahmud">
+- 📫 Fastest Way to reach me <a href="https://twitter.com/jalishmahmud">
   <img align="left" alt="Jalish Mahmud Sujon | Twitter" width="30px" src="https://raw.githubusercontent.com/Vucko130/Vucko130/main/assets/twitter.svg" />
   
 <a href="https://puzzles.cf/me">
@@ -26,7 +24,7 @@
   
   
 <a href="https://puzzles.cf/me">
-  <img align="center" alt="Jalish Mahmud Sujon | Website" width="512px" src="https://github.com/Vucko130/Vucko130/raw/main/assets/engineer-80.png" />
+  <img align="center" alt="Jalish Mahmud Sujon | Website" width="128px" src="https://github.com/Vucko130/Vucko130/raw/main/assets/engineer-80.png" />
   
   
   
