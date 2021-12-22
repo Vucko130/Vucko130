@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @Vucko130
 - 👷 I'm a Civil Engineer. 
 - 💻 My hobby is Web Designing.
-- 👀 I’m interested in Building Design and Web designing.
+- 👀 I’m interested in Structure Design and Web designing.
 - 🌱 I’m currently completing my BSc.
 - 📫 Fastest Way to reach me 
 
