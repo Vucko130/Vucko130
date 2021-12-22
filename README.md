@@ -6,45 +6,45 @@
 - 📫 Fastest Way to reach me
 
 <a href="https://twitter.com/jalishmahmud">
-  <img align="left" alt="Jalish Mahmud Sujon | Twitter" width="22px" src="https://img.shields.io/badge/facebook-jalishmahmudsujon-blue?style=plastic&logo=facebook" />
+  <img align="left" alt="Jalish Mahmud Sujon | Twitter" width="48px" src="https://raw.githubusercontent.com/Vucko130/Vucko130/main/assets/twitter.svg" />
   
-  ![](https://visitor-badge.glitch.me/badge?page_id=Vucko130.Vucko130)
+<a href="https://puzzles.cf/me">
+  <img align="left" alt="Jalish Mahmud Sujon | Facebook" width="48px" src="https://raw.githubusercontent.com/Vucko130/Vucko130/main/assets/facebook.svg" />
+  
+<a href="https://www.reddit.com/user/Vucko130">
+  <img align="left" alt="Jalish Mahmud Sujon | Reddit" width="48px" src="https://raw.githubusercontent.com/Vucko130/Vucko130/main/assets/reddit.svg" />
 
-                                                    __________
-             _,---.                          _..--'/          \
-          ,-'      )                    _,-,'     /            \
-         (          )               _,-'  /      /              \
-          `-.__, -'             _,-/     /     _/ ,------------. \
-     ,--._,---.             _,-'  /     /_,--'' | |    Jalish  | |
-   _(_,-'      )        _,-'/    /_, - '|       | |   Mahmud   | |
- ,'  (        )      ,'/   /_, -'|      ||_  -  | |    Sujon   | |
-(     `--._,-'    _,' /_,-'|     ||_  - |       | |            | |
- `--.__,-'     _,'/,-'|  - ||_ - |      ||_  -  | |            | |
-            _,'/,'|  - ___ |     ||_  - |       | `------------' |
-        _ ,' |_' -|- _(   ) |_   |      ||_  -  |                |
-       ( ): ((`) -| (. `-/ )   - ||_  - |       |                |
-      ` | '(-.,') '( _\`/-') _ - |      | _   - |                |
-        `   (_.) -(_._ \|,-_)    ||_  - |       |                |
- .        `. || ` | (_\||_)  _ - |      ||_  -  |                |
-             `.    ` . ||  |   - ||_  - |       |                |
-                `.     ||-.|  :  |  _   ||_   - |     __________ |
-                   `.  ||    ` -.|   |  |   _   |    | _Doener_ |`'--.._
-                      `.           ` - .|  | |  |    || ()._o  ||   __ |
-\           `            `.   `           ` -' .|____|`'---.|>_||  |. ||
-                            `.                         `' -- .._|__|__||
-                      ,----.---------- .                            .-_.
-   _                 |.`.,' `.           `.                         || |
-    \                \ _|`. / `.            `.                      \|_o
-     \                | \  `.   \.-----_-----.\     `
-      \               `.|.`| `./ \\  c__)___/ \\             .
-       \        `         `.   `. \\____\___)__\\
-                            `. _ `.\`____________\
-                              | \  |_|   ____   |_|
-          _                   `.|\ |#|__[jrei]__|_|`.
-           \                      `================'  `.
+<a href="https://jalish.com/contact">
+  <img align="left" alt="Jalish Mahmud Sujon | Email" width="48px" src="https://github.com/Vucko130/Vucko130/raw/main/assets/email-sign-48.png" />
+  
+<a href="https://jalish.com">
+  <img align="left" alt="Jalish Mahmud Sujon | Website" width="48px" src="https://github.com/Vucko130/Vucko130/raw/main/assets/website-48.png" />
+  
 
-------------------------------------------------
 
+	
+     ^^      ..                                       ..
+             []                                       []
+           .:[]:_          ^^                       ,:[]:.
+         .: :[]: :-.                             ,-: :[]: :.
+       .: : :[]: : :`._                       ,.': : :[]: : :.
+     .: : : :[]: : : : :-._               _,-: : : : :[]: : : :.
+ _..: : : : :[]: : : : : : :-._________.-: : : : : : :[]: : : : :-._
+ _:_:_:_:_:_:[]:_:_:_:_:_:_:_:_:_:_:_:_:_:_:_:_:_:_:_:[]:_:_:_:_:_:_
+ !!!!!!!!!!!![]!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!![]!!!!!!!!!!!!!
+ ^^^^^^^^^^^^[]^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[]^^^^^^^^^^^^^
+             []                                       []
+             []                                       []
+             []                                       []
+  ~~^-~^_~^~/  \~^-~^~_~^-~_^~-^~_^~~-^~_~^~-~_~-^~_^/  \~^-~_~^-~~-
+ ~ _~~- ~^-^~-^~~- ^~_^-^~~_ -~^_ -~_-~~^- _~~_~-^_ ~^-^~~-_^-~ ~^
+    ~ ^- _~~_-  ~~ _ ~  ^~  - ~~^ _ -  ^~-  ~ _  ~~^  - ~_   - ~^_~
+      ~-  ^_  ~^ -  ^~ _ - ~^~ _   _~^~-  _ ~~^ - _ ~ - _ ~~^ -
+ jgs  .  ~^ -_ ~^^ -_ ~ _ - _ ~^~-  _~ -_   ~- _ ~^ _ -  ~ ^-
+             ~^~ - _ ^ - ~~~ _ - _ ~-^ ~ __- ~_ - ~  ~^_-
+                 ~ ~- ^~ -  ~^ -  ~ ^~ - ~~  ^~ - ~
+
+  Thank you for Visiting my Profile. ![](https://visitor-badge.glitch.me/badge?page_id=Vucko130.Vucko130)
 
 
 <!---
