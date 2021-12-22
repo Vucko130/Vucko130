@@ -16,7 +16,7 @@
 <a href="https://www.reddit.com/user/Vucko130">
   <img align="left" alt="Jalish Mahmud Sujon | Reddit" width="30px" src="https://raw.githubusercontent.com/Vucko130/Vucko130/main/assets/reddit.svg" />
 
-<a href="https://jalish.com/contact">
+<a href="mailto:jalish.mahmud@jalish.com">
   <img align="left" alt="Jalish Mahmud Sujon | Email" width="30px" src="https://github.com/Vucko130/Vucko130/raw/main/assets/email-sign-48.png" />
   
 <a href="https://jalish.com">
