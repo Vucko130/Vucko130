@@ -22,7 +22,7 @@
 <a href="mailto:jalish.mahmud@jalish.com">
   <img align="left" alt="Jalish Mahmud Sujon | Email" width="30px" src="https://github.com/Vucko130/Vucko130/raw/main/assets/email-sign-48.png" />
   
-<a href="https://jalish.com">
+<a href="https://thepuzzles.eu.org">
   <img align="left" alt="Jalish Mahmud Sujon | Website" width="30px" src="https://github.com/Vucko130/Vucko130/raw/main/assets/website-48.png" />
 
 
