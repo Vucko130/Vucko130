@@ -1,4 +1,4 @@
-<a href="https://thepuzzles.eu.org"> <img align="right" alt="Jalish Mahmud Sujon" src="https://img.icons8.com/external-victoruler-linear-colour-victoruler/228/000000/external-boy-people-victoruler-linear-colour-victoruler-3.png"/>
+<img align="right" alt="Jalish Mahmud Sujon" src="https://img.icons8.com/external-victoruler-linear-colour-victoruler/228/000000/external-boy-people-victoruler-linear-colour-victoruler-3.png"/>
 
 - 👋 Hi, I’m @Vucko130
 - 👷 I'm a Civil Engineer. 
