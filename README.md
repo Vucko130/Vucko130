@@ -29,7 +29,7 @@
 <br>
 <h3 style="text-align:center;"> Thank you for vising my profile. </h3>
   
-![](https://visitor-badge.glitch.me/badge?page_id=Vucko130.Vucko130)
+![]([https://visitor-badge.glitch.me/badge?page_id=Vucko130.Vucko130](https://img.shields.io/endpoint?label=Total%20Visitors&style=plastic&url=https%3A%2F%2Fhits.dwyl.com%2FVucko130%2FVucko130%2FVucko130.svg%3Fstyle%3Dflat-square))
 
   
 
