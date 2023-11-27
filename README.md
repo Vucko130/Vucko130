@@ -19,10 +19,10 @@
 <a href="https://t.me/Vucko130">
   <img align="left" alt="Jalish Mahmud Sujon | Telegram" width="30px" src="https://raw.githubusercontent.com/Vucko130/Vucko130/main/assets/telegram-app.svg" />
   
-<a href="mailto:jalish.mahmud@thepuzzles.eu.org">
+<a href="mailto:jalish@alphaxb.com">
   <img align="left" alt="Jalish Mahmud Sujon | Email" width="30px" src="https://github.com/Vucko130/Vucko130/raw/main/assets/email-sign-48.png" />
   
-<a href="https://thepuzzles.eu.org">
+<a href="https://alphaxb.com">
   <img align="left" alt="Jalish Mahmud Sujon | Website" width="30px" src="https://github.com/Vucko130/Vucko130/raw/main/assets/website-48.png" />
 
 
