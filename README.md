@@ -92,9 +92,7 @@
 <h3 style="text-align:center;"> Thank you for visting my profile. </h3>
 </p>
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVucko130%2FVucko130&count_bg=%2379C83D&title_bg=%23555555&icon=freecodecamp.svg&icon_color=%23E7E7E7&title=Total+Visitors&edge_flat=false)](https://thepuzzles.eu.org)
-
-  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vucko130&label=Profile%20views&color=0e75b6&style=flat" alt="vucko130" /> </p>
 
 <!---
 Vucko130/Vucko130 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
