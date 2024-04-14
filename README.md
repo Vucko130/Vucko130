@@ -1,6 +1,6 @@
 <img align="right" alt="Jalish Mahmud Sujon" src="https://img.icons8.com/external-victoruler-linear-colour-victoruler/228/000000/external-boy-people-victoruler-linear-colour-victoruler-3.png"/>
 
-- 👋 Hi, I’m @Vucko130
+- 👋 Hi, I’m Jalish Mahmud
 - 👷 I'm a Civil Engineer. 
 - 💻 My hobby is Web design.
 - 👀 I’m interested in Structure Design and Web designing.
@@ -66,15 +66,14 @@
 
 ## 📊Github Data Summary:
 
-<p><a href="https://quine.sh?utm_source=widgets&utm_campaign=Andreyscott"><img align="center" height="290" width="150%" src="https://stats.quine.sh/Andreyscott/github?theme=dark"/></a>
+<p><a href="https://quine.sh?utm_source=widgets&utm_campaign=Vucko130"><img align="left" height="290" width="150%" src="https://stats.quine.sh/Vucko130/github?theme=dark"/></a>
 
 <div id="github_stats" align="center">
  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Vucko130&theme=highcontrast&hide_border=false)<br/>
 
-<a href="#Andreyscott-title">
+<a href="#Vucko130-title">
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Vucko130&show_icons=true&title_color=2a50f7&icon_color=2a50f7&text_color=ffffff&bg_color=040404&border_color=2a50f7" alt="Vucko130" align="left" />
-
 </a>
 
 <a href="#Vucko130-title">
