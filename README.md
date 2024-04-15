@@ -5,7 +5,7 @@
 - 💻 My hobby is Web design.
 - 👀 I’m interested in Structure Design and Web designing.
 - 🌱 I’m currently completing my BSc.
-- 📫 Fastest Way to reach me
+- 📫 Fastest Way to reach [me](mailto:jalish@alphaxb.com)
 
 ## 🛠️ Technologies and Tools I use:
 
