@@ -65,12 +65,8 @@
 </p>
 
 ## 📊Github Data Summary:
-
-<p><a href="https://quine.sh?utm_source=widgets&utm_campaign=Vucko130"><img align="left" height="290" width="150%" src="https://stats.quine.sh/Vucko130/github?theme=dark"/></a>
-
-<div id="github_stats" align="center">
- 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Vucko130&theme=highcontrast&hide_border=false)<br/>
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=blueberry)
+<p>
 
 <a href="#Vucko130-title">
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Vucko130&show_icons=true&title_color=2a50f7&icon_color=2a50f7&text_color=ffffff&bg_color=040404&border_color=2a50f7" alt="Vucko130" align="left" />
@@ -85,7 +81,7 @@
   <img width = "100%" height ="300" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vucko130&theme=github_dark" /></a>
 </p>
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=blueberry)
+
 
 </div>
 <p>
