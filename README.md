@@ -4,7 +4,7 @@
 - 👷 I'm a Civil Engineer. 
 - 💻 My hobby is Web design.
 - 👀 I’m interested in Structure Design and Web designing.
-- 🌱 I’m currently completing my BSc.
+- 🌱 I have completed my B.Sc. recently.
 - 📫 Fastest Way to reach [me](mailto:jalish@alphaxb.com)
 
 ## 🛠️ Technologies and Tools I use:
